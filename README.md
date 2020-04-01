@@ -1,6 +1,6 @@
 # Pipelines
 
-**TODO: Add description**
+A simple DSL to aid in the usage of Railway Oriented Programming
 
 ## Installation
 
@@ -10,7 +10,7 @@ by adding `pipelines` to your list of dependencies in `mix.exs`:
 ```elixir
 def deps do
   [
-    {:pipelines, "~> 0.1.0"}
+    {:pipelines, "~> 0.0.0"}
   ]
 end
 ```
