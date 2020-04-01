@@ -1,4 +1,4 @@
-import Config
+use Mix.Config
 
 config :pipelines, Pipelines,
   error_logger: Pipelines.SimpleLogger,
