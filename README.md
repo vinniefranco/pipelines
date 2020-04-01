@@ -1,5 +1,7 @@
 # Pipelines
 
+[![Coverage Status](https://coveralls.io/repos/github/vinniefranco/pipelines/badge.svg?branch=master)](https://coveralls.io/github/vinniefranco/pipelines?branch=master)
+
 A simple DSL to aid in the usage of Railway Oriented Programming
 
 ## Installation
